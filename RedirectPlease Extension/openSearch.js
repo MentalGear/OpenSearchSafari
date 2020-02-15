@@ -1,12 +1,12 @@
 //
 //  ##### SAFARI OPEN SEARCH #####
 //  by Tom Faber
-//  https://TomFaber.id / @TomFaber.id
+//  https://TomFaber.id
 //
 //
 //  # DESC
-//  Javascript Injection Code that allows any search engine
-//  to be used with Safari's standard smart address search field
+//  Javascript Injection Code that allows for any search engine
+//  to be used within Safari's standard smart search bar
 //
 //
 //  # LICENSE
