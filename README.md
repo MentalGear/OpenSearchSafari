@@ -1,5 +1,5 @@
 # Safari Open Search
-Safari Extension that contains javascript Injection Code that allows a custom search engine to be used within Safari's smart address search bar.
+Safari Extension that allows any custom search engine to be used within Safari's smart address search bar through js injection code.
 Made by [Tom F](https://TomFaber.id)
 
 ## Unique Features
