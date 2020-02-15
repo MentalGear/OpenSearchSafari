@@ -1,4 +1,4 @@
-# Safari Open Search
+# Open Search Safari
 Safari Extension that allows any custom search engine to be used within Safari's smart address search bar through js injection code.
 Made by [Tom Faber](https://TomFaber.id).
 
