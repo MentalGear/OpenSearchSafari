@@ -1,7 +1,6 @@
 # Safari Open Search
 Safari Extension that contains javascript Injection Code that allows a custom search engine to be used within Safari's smart address search bar.
-by Tom Faber
-https://TomFaber.id
+by [Tom Faber](https://TomFaber.id)
 
 ## Unique Features
 - Use any 3rd party search engine within Safari’s smart address bar
@@ -12,8 +11,7 @@ https://TomFaber.id
 ## License
 You can distribute, remix, tweak, and build upon this work,
 even commercially, as long as credit is given for the original creation.
-Attribution 4.0 International (CC BY 4.0)
-(https://creativecommons.org/licenses/by/4.0/)
+[Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## How to Use
 Compile with xCode, then activate the 'Open Search' extension in Safari.
@@ -23,5 +21,4 @@ All the functionality is within the customSearch.js file. You just have to defin
 
 ## Build with
 Swift Safari Extension Wrapper Code:
-RedirectPlease by Alex Perathoner (GNU GPL 3)
-https://github.com/AlexPerathoner/RedirectPlease
+[RedirectPlease by Alex Perathoner (GNU GPL 3)](https://github.com/AlexPerathoner/RedirectPlease)
