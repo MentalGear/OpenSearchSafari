@@ -16,7 +16,7 @@ even commercially, as long as credit is given for the original creation.
 Compile with xCode, then activate the 'Open Search' extension in Safari.
 
 ## How to change Search Engine
-All the functionality is within the customSearch.js file. You just have to define your search engine with it's query string in 'customSearchEngineQueryLink' var (the default is Ecosia).
+All the functionality is within the customSearch.js file. You just have to define your search engine with its query string in 'customSearchEngineQueryLink' var (the default is Ecosia).
 
 ## Build with
 Swift Safari Extension Wrapper Code:
