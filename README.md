@@ -1,3 +1,5 @@
+![Open Safari Logo](Icon_OpenSearchSafari.png)
+
 # Open Search Safari
 Safari Extension that allows for any custom search engine to be used within Safari's smart search bar. Implemented via js injection code. Made by [Tom Faber](https://TomFaber.id).
 
